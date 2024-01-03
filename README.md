@@ -4,9 +4,9 @@ Overview:
 This repository contains a simple implementation of a Naive Bayes classifier for predicting heart disease based on a dataset. The classifier is trained using the scikit-learn library in Python.
 
 Requirements:
-pandas
-numpy
-scikit-learn
+pandas,
+numpy,
+scikit-learn.
 
 Install the required packages using the following command:
 pip install pandas numpy scikit-learn
@@ -33,5 +33,6 @@ Predictions are made on the test set (x_test) to evaluate the model's performanc
 An example prediction is demonstrated with a sample input ([45, 0, 1, 136, 315, 0, 1, 125, 1, 1.8, 1, 0, 1]).
 Feel free to modify the code or integrate it into your own projects as needed. For any questions or issues, please open an issue.
 
-License
+License:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
